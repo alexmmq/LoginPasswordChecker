@@ -1,0 +1,10 @@
+Create a login and password checking program:
+1) Checking if it is a real E-mail address:
+- contains a symbol '@' and a '.' after '@';
+- no digits after '.';
+2) Checking a valid password:
+ - not shorter than 8 symbols;
+ - contains at least 1 digit;
+ - contains at least 1 special symbol;
+ - contains at least 1 uppercase letter;
+ - contains at least 1 lowercase letter.
